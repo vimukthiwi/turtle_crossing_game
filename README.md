@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your Turtle Crossing game project:
-
-```markdown
 # Turtle Crossing Game
 
 This is a simple Turtle Crossing game built using Python's Turtle graphics library. The player controls a turtle trying to cross the road while avoiding cars.
@@ -89,10 +86,3 @@ turtle-crossing-game/
 ├── requirements.txt
 └── README.md
 ```
-
-### Notes
-
-1. Replace `yourusername` in the `git clone` URL with your actual GitHub username.
-2. Add a `requirements.txt` file if there are any additional dependencies. If the only dependency is Turtle, it might not be necessary to have one, as Turtle is included in the standard library for Python.
-
-This `README.md` should provide a good starting point for users to understand, install, and run your Turtle Crossing game.
